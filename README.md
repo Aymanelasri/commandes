@@ -47,12 +47,7 @@ Statuts possibles : `en_attente`, `confirmee`, `livree`, `annulee`
 - Node.js & npm
 `
 
-## Compte de test
 
-| Champ | Valeur |
-|---|---|
-| Email | user@example.com |
-| Mot de passe | password |
 
 ## Routes principales
 
